@@ -32,18 +32,20 @@ Let's setup a github.com account, and download git (windows client, or command l
 Sublime Text / Atom
 None of that notepad crap.
 
-## Markdown
-This is markdown. It's readable in text format and easily converted to HTML
 
 # Let's get started
 
 Follow instructions - https://pages.github.com/
 
+### Make it look a bit better
+CSS frameworks - Bootstrap / Foundation
+
+## Markdown
+This is markdown. It's readable in text format and easily converted to HTML
+
 ### Second try - a markdown page
 https://guides.github.com/features/mastering-markdown/
 
-### Make it look a bit better
-CSS frameworks - Bootstrap / Foundation
 
 ### Jekyll
 Static blog generator - requires linux (woop!)
